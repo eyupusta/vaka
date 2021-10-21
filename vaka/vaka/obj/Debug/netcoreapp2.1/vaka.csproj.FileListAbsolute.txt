@@ -1,0 +1,11 @@
+C:\Users\AHMET USTA\Desktop\vaka\vaka\bin\Debug\netcoreapp2.1\vaka.deps.json
+C:\Users\AHMET USTA\Desktop\vaka\vaka\bin\Debug\netcoreapp2.1\vaka.runtimeconfig.json
+C:\Users\AHMET USTA\Desktop\vaka\vaka\bin\Debug\netcoreapp2.1\vaka.runtimeconfig.dev.json
+C:\Users\AHMET USTA\Desktop\vaka\vaka\bin\Debug\netcoreapp2.1\vaka.dll
+C:\Users\AHMET USTA\Desktop\vaka\vaka\bin\Debug\netcoreapp2.1\vaka.pdb
+C:\Users\AHMET USTA\Desktop\vaka\vaka\obj\Debug\netcoreapp2.1\vaka.csprojAssemblyReference.cache
+C:\Users\AHMET USTA\Desktop\vaka\vaka\obj\Debug\netcoreapp2.1\vaka.csproj.CoreCompileInputs.cache
+C:\Users\AHMET USTA\Desktop\vaka\vaka\obj\Debug\netcoreapp2.1\vaka.AssemblyInfoInputs.cache
+C:\Users\AHMET USTA\Desktop\vaka\vaka\obj\Debug\netcoreapp2.1\vaka.AssemblyInfo.cs
+C:\Users\AHMET USTA\Desktop\vaka\vaka\obj\Debug\netcoreapp2.1\vaka.dll
+C:\Users\AHMET USTA\Desktop\vaka\vaka\obj\Debug\netcoreapp2.1\vaka.pdb
